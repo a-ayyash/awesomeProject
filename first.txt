@@ -4,4 +4,6 @@ This is yet another line
 
 
 
-return
+return 0;
+
+this is not a code
